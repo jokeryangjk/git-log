@@ -1,5 +1,2 @@
-jiajiajiajiajiajiaasdjh
-
-hello git
-git is a version manage system
-woshishishishi
+fixfixasdasdasd
+第一次和远程关联
